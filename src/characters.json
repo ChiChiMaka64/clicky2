@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Scrooge McDuck",
+    "image": "/charactersImages/dt1.jpg",
+    "occupation": "Richest Duck in the World",
+    "location": "Duckburg"
+  },
+  {
+    "id": 2,
+    "name": "Dewey",
+    "image": "/charactersImages/dt2.png",
+    "occupation": "The Third One",
+    "location": "Duckburg"
+  },
+  {
+    "id": 3,
+    "name": "Lena",
+    "image": "/charactersImages/dt3.jpg",
+    "occupation": "Webby's BFF",
+    "location": "Duckburg"
+  },
+  {
+    "id": 4,
+    "name": "Donald Duck",
+    "image": "/charactersImages/dt4.png",
+    "occupation": "Adventurer",
+    "location": "Duckburg"
+  },
+  {
+    "id": 5,
+    "name": "Flinthart Glomgold",
+    "image": "/charactersImages/dt5.jpg",
+    "occupation": "2nd Richest Duck in the World",
+    "location": "Duckburg"
+  },
+  {
+    "id": 6,
+    "name": "Webby",
+    "image": "/charactersImages/dt6.jpg",
+    "occupation": "Female Adventurer ",
+    "location": "Duckburg"
+  },
+  {
+    "id": 7,
+    "name": "Mrs. Beakley",
+    "image": "/charactersImages/dt7.jpg",
+    "occupation": "Kick-Ass Caregiver",
+    "location": "Duckburg"
+  },
+  {
+    "id": 8,
+    "name": "Louie",
+    "image": "/charactersImages/dt8.jpg",
+    "occupation": "The Evil Triplet",
+    "location": "Duckburg"
+  },
+  {
+    "id": 9,
+    "name": "Drake Mallard aka Darkwing Duck",
+    "image": "/charactersImages/dt9.jpg",
+    "occupation": "Crime Fighter",
+    "location": "St. Canard"
+  },
+  {
+    "id": 10,
+    "name": "Launchpad McQuack",
+    "image": "/charactersImages/dt10.jpg",
+    "occupation": "Pilot",
+    "location": "Duckburg"
+  },
+  {
+    "id": 11,
+    "name": "Huey",
+    "image": "/charactersImages/dt11.png",
+    "occupation": "Jr. Woodchuck",
+    "location": "Duckburg"
+  },
+  {
+    "id": 12,
+    "name": "Fenton Crackshell-Cabrera aka Gizmoduck",
+    "image": "/charactersImages/dt12.jpg",
+    "occupation": "Crime Fighter",
+    "location": "Duckburg"
+  }
+]
